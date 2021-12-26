@@ -5,5 +5,6 @@
 
 - Behavioral design pattern 
 
-      - Memento pattern use to implemeent the undo mechanisism
-[Memento](src/img/Memento-pattern.png)
+- Memento pattern used to implement undo mechanism
+
+  ![Memento](src/img/Memento-pattern.png)
