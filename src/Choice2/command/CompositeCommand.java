@@ -1,6 +1,7 @@
 package Choice2.command;
 
-import com.codewithmosh.command.fx.Command;
+
+import Choice2.command.editor.Command;
 
 import java.util.ArrayList;
 import java.util.List;

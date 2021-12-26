@@ -1,13 +1,14 @@
 package Choice2.memento;
 
 public class EditorState {
-  private final String content;
+
+  private final String EditorStateContent;
 
   public EditorState(String content) {
-    this.content = content;
+    this.EditorStateContent = content;
   }
 
   public String getContent() {
-    return content;
+    return EditorStateContent;
   }
 }

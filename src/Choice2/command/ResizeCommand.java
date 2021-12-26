@@ -1,6 +1,6 @@
 package Choice2.command;
 
-import com.codewithmosh.command.fx.Command;
+import Choice2.command.editor.Command;
 
 public class ResizeCommand implements Command {
   @Override
